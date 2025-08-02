@@ -51,9 +51,8 @@ npm start
 
 
 🔧 Folder Structure
-pgsql
-Copy
-Edit
+
+
 ```MovieDB/
 ├── public/
 ├── src/
