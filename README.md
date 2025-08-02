@@ -54,18 +54,36 @@ npm start
 
 
 ```MovieDB/
+MovieDB/
+├── node_modules/
 ├── public/
+│   └── index.html
 ├── src/
+│   ├── assets/
 │   ├── components/
-│   ├── pages/
-│   ├── redux/
-│   │   ├── actions/
-│   │   ├── reducers/
-│   ├── App.js
-│   ├── index.js
-├── package.json
+│   │   ├── Banner.css
+│   │   ├── Banner.jsx
+│   │   ├── MediaPlayer.jsx
+│   │   ├── MovieCard.jsx
+│   │   ├── MovieDetails.jsx
+│   │   ├── Movies.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Search.jsx
+│   │   ├── SearchResults.jsx
+│   │   └── WatchList.jsx
+│   ├── context/
+│   │   └── WatchlistContext.jsx
+│   ├── utils/
+│   │   └── api.js
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
 ├── .env
+├── package.json
+├── package-lock.json
 └── README.md
+
 ```
 
 
