@@ -48,11 +48,13 @@ bash
 Copy
 Edit
 npm start
+
+
 🔧 Folder Structure
 pgsql
 Copy
 Edit
-MovieDB/
+```MovieDB/
 ├── public/
 ├── src/
 │   ├── components/
