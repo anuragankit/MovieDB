@@ -1,34 +1,42 @@
 # 🎬 MovieDB
 
-A web application to browse, search, and manage popular movies using the TMDB API.
+A responsive React web application for browsing, searching, and saving popular movies using the TMDB (The Movie Database) API.
+
+---
 
 ## 🚀 Features
 
-- View popular, trending, and upcoming movies
-- Search movies by title
-- Add movies to a watchlist
-- Infinite scrolling for seamless browsing
-- Responsive UI with styled-components
-- Tailwind CSS for styling
+- 🔥 View Popular, Trending & Upcoming movies
+- 🔍 Search movies by title
+- 💾 Add movies to your Watchlist
+- ⏬ Infinite scrolling for seamless UX
+- 📱 Fully responsive and mobile-friendly design
+- 🎨 Clean UI with Tailwind CSS & styled-components
+- 🎥 Embedded video player for trailers
 
-## 🧪 Technologies Used
+---
 
-- React
-- Redux (for state management)
-- Redux Thunk (async API calls)
-- Axios (HTTP client)
-- react-infinite-scroll-component
-- Styled-components (or CSS)
-- React Router for routing
-- Tailwind CSS
-- The Movie Database (TMDB) API
+## 🛠️ Tech Stack
 
-## ⚙️ Setup Instructions
+- **React**
+- **Context API** (Watchlist Management)
+- **Axios** (API requests)
+- **TMDB API** (Data source)
+- **Tailwind CSS**
+- **Styled-components**
+- **React Router DOM**
+- **react-infinite-scroll-component**
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/anuragankit/MovieDB.git
-   cd MovieDB
+---
+
+## ⚙️ Installation and Setup Instructions
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/anuragankit/MovieDB.git
+cd MovieDB
+```
 Install dependencies
 
 bash
