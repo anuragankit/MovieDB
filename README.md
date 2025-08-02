@@ -41,7 +41,7 @@ Create a .env file in the root directory and add:
 env
 Copy
 Edit
-REACT_APP_TMDB_API_KEY=```YOUR API KEY HERE
+REACT_APP_TMDB_API_KEY=```YOUR API KEY HERE```
 Start the development server
 
 bash
